@@ -19,6 +19,8 @@
 ```
 ### Output
 
+<img width="475" alt="image" src="https://github.com/Agussetiaa/Lab7_web/assets/115542822/10467067-deed-4fd9-ac4d-ba19d3f3da60">
+
 ## VAR PHP
 ```
 <!DOCTYPE html>
@@ -44,6 +46,7 @@
 ```
 ### Output
 
+<img width="480" alt="image" src="https://github.com/Agussetiaa/Lab7_web/assets/115542822/74edf892-30cc-4d39-8fe4-b85e9379acc2">
 
 # Predefine Variable $_GET
 ```
@@ -64,6 +67,7 @@
 ```
 ### Output
 
+<img width="476" alt="image" src="https://github.com/Agussetiaa/Lab7_web/assets/115542822/a5cf7c20-d225-4d67-bdd5-bf25b43b4f39">
 
 # FORM
 ```
@@ -89,6 +93,7 @@
 ```
 ### Output
 
+<img width="475" alt="image" src="https://github.com/Agussetiaa/Lab7_web/assets/115542822/d7d9dd8b-38fd-419a-8b54-719d8c1d9679">
 
 # operator 
 ```
